@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_Sort", "Test_Sort\Test_Sort.csproj", "{49282FC9-518B-4EC6-B528-F0622748F93C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Temp_quicksort", "Temp\Temp_quicksort.csproj", "{471E791F-AEF0-4020-880D-2ABD061B1316}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test_3", "Test_3\Test_3.csproj", "{B86C65EA-61DA-4219-9C6A-AAE3A0F9DC47}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Horns_n_legs", "Horns_n_legs\Horns_n_legs.csproj", "{D26CB59C-F147-489A-AFB5-996E87B0AC79}"
@@ -23,10 +21,6 @@ Global
 		{49282FC9-518B-4EC6-B528-F0622748F93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49282FC9-518B-4EC6-B528-F0622748F93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49282FC9-518B-4EC6-B528-F0622748F93C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{471E791F-AEF0-4020-880D-2ABD061B1316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{471E791F-AEF0-4020-880D-2ABD061B1316}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{471E791F-AEF0-4020-880D-2ABD061B1316}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{471E791F-AEF0-4020-880D-2ABD061B1316}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B86C65EA-61DA-4219-9C6A-AAE3A0F9DC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B86C65EA-61DA-4219-9C6A-AAE3A0F9DC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B86C65EA-61DA-4219-9C6A-AAE3A0F9DC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
