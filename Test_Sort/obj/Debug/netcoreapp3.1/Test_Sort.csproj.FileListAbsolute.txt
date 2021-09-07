@@ -1,0 +1,13 @@
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\bin\Debug\netcoreapp3.1\Test_Sort.exe
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\bin\Debug\netcoreapp3.1\Test_Sort.deps.json
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\bin\Debug\netcoreapp3.1\Test_Sort.runtimeconfig.json
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\bin\Debug\netcoreapp3.1\Test_Sort.runtimeconfig.dev.json
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\bin\Debug\netcoreapp3.1\Test_Sort.dll
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\bin\Debug\netcoreapp3.1\Test_Sort.pdb
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\obj\Debug\netcoreapp3.1\Test_Sort.csprojAssemblyReference.cache
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\obj\Debug\netcoreapp3.1\Test_Sort.AssemblyInfoInputs.cache
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\obj\Debug\netcoreapp3.1\Test_Sort.AssemblyInfo.cs
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\obj\Debug\netcoreapp3.1\Test_Sort.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\obj\Debug\netcoreapp3.1\Test_Sort.dll
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\obj\Debug\netcoreapp3.1\Test_Sort.pdb
+C:\Users\ADM\source\repos\Test_for_work\Test_Sort\obj\Debug\netcoreapp3.1\Test_Sort.genruntimeconfig.cache

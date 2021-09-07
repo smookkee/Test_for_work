@@ -1,0 +1,13 @@
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\obj\Debug\netcoreapp3.1\Horns_n_legs_2.AssemblyInfoInputs.cache
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\obj\Debug\netcoreapp3.1\Horns_n_legs_2.AssemblyInfo.cs
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\obj\Debug\netcoreapp3.1\Horns_n_legs_2.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\bin\Debug\netcoreapp3.1\Horns_n_legs_2.exe
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\bin\Debug\netcoreapp3.1\Horns_n_legs_2.deps.json
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\bin\Debug\netcoreapp3.1\Horns_n_legs_2.runtimeconfig.json
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\bin\Debug\netcoreapp3.1\Horns_n_legs_2.runtimeconfig.dev.json
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\bin\Debug\netcoreapp3.1\Horns_n_legs_2.dll
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\bin\Debug\netcoreapp3.1\Horns_n_legs_2.pdb
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\obj\Debug\netcoreapp3.1\Horns_n_legs_2.dll
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\obj\Debug\netcoreapp3.1\Horns_n_legs_2.pdb
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\obj\Debug\netcoreapp3.1\Horns_n_legs_2.genruntimeconfig.cache
+C:\Users\ADM\source\repos\Test_for_work\Horns_n_legs_oop\obj\Debug\netcoreapp3.1\Horns_n_legs_2.csprojAssemblyReference.cache
