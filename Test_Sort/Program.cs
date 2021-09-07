@@ -6,6 +6,7 @@ namespace Test_Sort
 {
     class Program
     {
+        #region Вспомогательные методы
         static void Swap(ref int first, ref int second)
         {
             var temp = first;
@@ -53,7 +54,7 @@ namespace Test_Sort
 
             return array;
         }
-
+        #endregion
 
         static void Main(string[] args)
         {
@@ -65,14 +66,23 @@ namespace Test_Sort
                 array[i] = rnd.Next(-1,2);
             }
 
-            
+            Stopwatch stopWatch = new Stopwatch();
+            stopWatch.Start();
+
+            int[] tempArray = TestTime(array); // Сюда вставлять нужны метод для теста
+
+            stopWatch.Stop();
+
+            Console.WriteLine(stopWatch.ElapsedMilliseconds);
+            Console.ReadKey();
+
+            #region Методы сортировки
             int[] StandartSort(int[] array)
             {
                 Array.Sort(array);
                 Array.Reverse(array);
                 return array;
             }
-
 
             int[] StrangeSort(int[] array)
             {
@@ -109,7 +119,6 @@ namespace Test_Sort
                 return resultArray;
             }
 
-
             int[] BubleSort(int[] array)
             {
 
@@ -127,7 +136,6 @@ namespace Test_Sort
 
                 return array;
             }
-
 
             int[] QuickSort(int[] array)
             {
@@ -157,7 +165,6 @@ namespace Test_Sort
                 return sortArray;
             }
 
-
             int[] LinqSort(int[] array)
             {
                 var sortArray = from i in array
@@ -167,8 +174,7 @@ namespace Test_Sort
                 return sortArray.ToArray();
             }
 
-
-            int[] TestTime(int[] array)
+            int[] TestTime(int[] array)   //проверить сколько времени на данной машине занимает цикл в миллион итераций
             {
                 for (int i = 0; i < array.Length; i++)
                 {
@@ -176,23 +182,9 @@ namespace Test_Sort
                 }
                 return array;
             }
+            #endregion
 
-            Stopwatch stopWatch = new Stopwatch();
-            stopWatch.Start();
-            
-            int[] tempArray = TestTime(array);
-
-            stopWatch.Stop();
-
-            Console.WriteLine(stopWatch.ElapsedMilliseconds);
-
-        //   foreach (var item in tempArray)
-        //  {
-        //      Console.WriteLine(item);
-        //  }
-
-
-            Console.ReadKey();
+           
         }
     }
 }

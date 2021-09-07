@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Horns_n_legs_2
 {
-
+    
     class Box
     {
         public Animal value;

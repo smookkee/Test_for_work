@@ -6,18 +6,16 @@ namespace Test_3
     {
         static void Main(string[] args)
         {
-            int[] array = new int[24];
+            int[] array = new int[24];  //Задаем длину массива
 
             Random rnd = new Random();
             int rndDel = rnd.Next(array.Length - 1);
-            Console.WriteLine(rndDel+1);
+            Console.WriteLine(rndDel+1);  //получаем случайное число, которое пропустим при генерации массива
 
             bool flag = true;
 
-            for (int i = 0; i < array.Length+1; i++)
+            for (int i = 0; i < array.Length+1; i++) //заполняем массив числами, пока не дойдем до числа, которое нужно пропустить. Когда дошли, то ставим флаг и начинаем заполнять оставшийся массив числами i+1
             {
-
-
                 if (i != rndDel && flag)
                 {
                     array[i] = i + 1;
@@ -42,19 +40,18 @@ namespace Test_3
             {
                 int sum = 0;
                 
-                for (int i = 0; i < array.Length; i++)
+                for (int i = 0; i < array.Length; i++)  // Считаем сумму всех чисел входного массива
                 {
                     sum += array[i];
-
                 }
 
                 int realSum = 0;
-                for (int i = 1; i <= array.Length+1; i++)
+                for (int i = 1; i <= array.Length+1; i++) // считаем сумму всех чисел от 1 до array.Length+1, получая таким образом реальную сумму, как будто нет пропуска одного случайного числа
                 {
                     realSum += i;
                 }
 
-                return (realSum - sum);
+                return (realSum - sum);  //Получаем искомое число
             }
             Console.WriteLine();
             Console.WriteLine(FindMissedNumber(array));

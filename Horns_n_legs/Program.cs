@@ -3,7 +3,7 @@
 namespace Horns_n_legs
 {
 
-    //куры, кролики, козы и коровы
+    //Примитивное решение
     class Program
     {
         public static void CountMaxAnimalsHunky(int legs, int horns)
