@@ -1,7 +1,0 @@
-C:\Users\ADM\source\repos\Test_for_work\Test_for_work\bin\Debug\Test_for_work.exe.config
-C:\Users\ADM\source\repos\Test_for_work\Test_for_work\bin\Debug\Test_for_work.exe
-C:\Users\ADM\source\repos\Test_for_work\Test_for_work\bin\Debug\Test_for_work.pdb
-C:\Users\ADM\source\repos\Test_for_work\Test_for_work\obj\Debug\Test_for_work.csprojAssemblyReference.cache
-C:\Users\ADM\source\repos\Test_for_work\Test_for_work\obj\Debug\Test_for_work.csproj.CoreCompileInputs.cache
-C:\Users\ADM\source\repos\Test_for_work\Test_for_work\obj\Debug\Test_for_work.exe
-C:\Users\ADM\source\repos\Test_for_work\Test_for_work\obj\Debug\Test_for_work.pdb
